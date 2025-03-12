@@ -1,0 +1,28 @@
+{
+  "id": "d3388ddf-faee-40d5-8050-4d74e4a338a1",
+  "timestamp": 1741794388077,
+  "method": "GET",
+  "path": "/assets/fonts/berkeley-mono-variable.woff2",
+  "query": {},
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "origin": "http://localhost:3000",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Not:A-Brand\";v=\"24\", \"Chromium\";v=\"134\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "font",
+    "referer": "http://localhost:3000/css/styles.css",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    "cookie": "_streamlit_xsrf=2|8c2ca74c|23ea1389f8c0714d0cbed255caa70307|1723738429; __clerk_db_jwt_tSQaq_SF=dvb_2sRKoYgZE3QwroeAvB70eWLIgLq; __refresh_tSQaq_SF=m9fVpIq4TJfqbGJbtgGc; __session_tSQaq_SF=eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18yc1JKQVpZZDJIQVJNRkk0MWZObXd1VkVBREMiLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vbG9jYWxob3N0OjMwMDEiLCJleHAiOjE3Mzg0MzExNzksImZ2YSI6WzI5MywtMV0sImlhdCI6MTczODQzMTExOSwiaXNzIjoiaHR0cHM6Ly9wcm9iYWJsZS1kcmFnb24tNzkuY2xlcmsuYWNjb3VudHMuZGV2IiwibmJmIjoxNzM4NDMxMTA5LCJzaWQiOiJzZXNzXzJzUkxiMUk5MTA1YTA0SUxPUXYxU0pIeTRPTiIsInN1YiI6InVzZXJfMnNSTGF2cUZyZDJHM1BzcTdYc3hFSmx3VzBrIn0.eC4DY-9bM108k45ZEu35xbqDxsE187lWbpTEaOpgh9yRTTgiDDJsxmte0HQ4zyeSSM2SB5du3xNEfDXMSoCPyEPO5zFA94uP12KwQWWCn2kf4Dk9Ue5cahmwghRB9r-omTeLZM_r80HBXwklRuKy20_sEKSylQbsJNZ1HQ2of39xp3QVc6fh9x2moFdvjgVAs16XSxD8WIi8WeQGKlY9fhyDPiPHqZF1P5HREaHM_bay24xAiGYJEBTgLtjL8f9PHrHvQFn69ExGoTa_9ho4bmbUnKzXDwCzTKOxy2yBquxRmwAp0pVPelDGtHrxZELan2TuxoBzpA6U0AJ1Yp19SQ; __client_uat_tSQaq_SF=1738413507; __clerk_db_jwt_HVj_xK27=dvb_2sp0Vy6Kelfne4PlSj0lB5eY2MB; __refresh_HVj_xK27=smsMfMdiCPzllAuoSNbC; __clerk_db_jwt=dvb_2sp0Vy6Kelfne4PlSj0lB5eY2MB; __clerk_keys_686326cc03703935=%7B%22claimUrl%22%3A%22https%3A%2F%2Fdashboard.clerk.com%2Fapps%2Fclaim%3Ftoken%3Divgma7n4h1c5miyklxw2t2bk54u95s0kk1c0zb1l%22%2C%22publishableKey%22%3A%22pk_test_Zmlyc3QtZ2hvc3QtODcuY2xlcmsuYWNjb3VudHMuZGV2JA%22%2C%22secretKey%22%3A%22sk_test_fd9pwtNbmyw7eXwls8jXSdhqZaPCp02JnSUM3gORPP%22%7D; __session_HVj_xK27=eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18yc296Ujh0bFRYNEdTdExKb0FwNGVURnBicm4iLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vbG9jYWxob3N0OjMwMDkiLCJleHAiOjE3NDAyMjU1MzksImZ2YSI6WzUxNTMsLTFdLCJpYXQiOjE3NDAyMjU0NzksImlzcyI6Imh0dHBzOi8vbW9kZXJuLWhvcm5ldC00MC5jbGVyay5hY2NvdW50cy5kZXYiLCJuYmYiOjE3NDAyMjU0NjksInNpZCI6InNlc3NfMnRFVFVhbW1QcDZRUjBWdmN6WTBWRFM5dEJjIiwic3ViIjoidXNlcl8yc3AwbHFBZUF5c0F5cklZcHVlellZNkFCUGwifQ.aj_ZdaEnMMD_WKouW6ZxYdgXtXZ3ET3idITcs2ymlTwGf1_z_jw0zLaHItFPhc9Px55i9omcxxlJtP0gHYcwWogXSnu12zmQ60I86tr2k3d8g2f_yYxVXhuzd_gymSB-M8CVPPCNGBb5brBDsN2DtolnwEmq3_IpvbxDFzhp1hTo-uF-Q9G2snyf3XyXn81HplsBBjmkjSUJ-9_D1oKoHl4PAjCdLOFMNuvlmRr-kbUGvZh77RrIGNNif_m11pcz060pmZ4OMh0EmoV3RmA3i8LUm_CgmuyBIRmp9fOyT7FKuF10ehDvb7rme624EHGkptaXlioYv4qF84nPgimGJA; __session=eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18yc296Ujh0bFRYNEdTdExKb0FwNGVURnBicm4iLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vbG9jYWxob3N0OjMwMDkiLCJleHAiOjE3NDAyMjU1MzksImZ2YSI6WzUxNTMsLTFdLCJpYXQiOjE3NDAyMjU0NzksImlzcyI6Imh0dHBzOi8vbW9kZXJuLWhvcm5ldC00MC5jbGVyay5hY2NvdW50cy5kZXYiLCJuYmYiOjE3NDAyMjU0NjksInNpZCI6InNlc3NfMnRFVFVhbW1QcDZRUjBWdmN6WTBWRFM5dEJjIiwic3ViIjoidXNlcl8yc3AwbHFBZUF5c0F5cklZcHVlellZNkFCUGwifQ.aj_ZdaEnMMD_WKouW6ZxYdgXtXZ3ET3idITcs2ymlTwGf1_z_jw0zLaHItFPhc9Px55i9omcxxlJtP0gHYcwWogXSnu12zmQ60I86tr2k3d8g2f_yYxVXhuzd_gymSB-M8CVPPCNGBb5brBDsN2DtolnwEmq3_IpvbxDFzhp1hTo-uF-Q9G2snyf3XyXn81HplsBBjmkjSUJ-9_D1oKoHl4PAjCdLOFMNuvlmRr-kbUGvZh77RrIGNNif_m11pcz060pmZ4OMh0EmoV3RmA3i8LUm_CgmuyBIRmp9fOyT7FKuF10ehDvb7rme624EHGkptaXlioYv4qF84nPgimGJA; __client_uat_HVj_xK27=1739916250; __client_uat=1739916250; __next_hmr_refresh_hash__=6586f75dbeff93caf3ac321c038db0d3633457081244afec",
+    "if-none-match": "W/\"fa7-aAZj7kzV096VhkGsbVPb8DxveVc\""
+  },
+  "body": {},
+  "ip": "::1"
+}

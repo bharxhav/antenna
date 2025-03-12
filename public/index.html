@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Antenna</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Antenna</h1>
+      <div class="controls">
+        <button id="refresh-btn">Refresh</button>
+        <button id="clear-btn">Clear View</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="requests-container">
+        <div class="loading">Loading requests...</div>
+      </div>
+    </main>
+
+    <footer>
+      <p>Antenna • <span id="request-count">0</span> requests captured</p>
+    </footer>
+
+    <template id="request-template">
+      <div class="request-item">
+        <div class="request-header">
+          <div class="request-method"></div>
+          <div class="request-path"></div>
+          <div class="request-time"></div>
+          <button class="toggle-btn">Details</button>
+        </div>
+        <div class="request-details">
+          <div class="detail-section">
+            <h3>Headers</h3>
+            <pre class="request-headers"></pre>
+          </div>
+          <div class="detail-section">
+            <h3>Query Parameters</h3>
+            <pre class="request-query"></pre>
+          </div>
+          <div class="detail-section">
+            <h3>Body</h3>
+            <pre class="request-body"></pre>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>
