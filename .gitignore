@@ -5,3 +5,5 @@ node_modules/
 **/._.DS_Store
 
 berkeley-mono-variable.woff2
+
+/cache/
