@@ -1,0 +1,7 @@
+services:
+  svelte:
+    build: ./frontend
+    container_name: antenna
+    ports:
+      - 29999:80
+    restart: unless-stopped
